@@ -36,7 +36,7 @@ When enabled, the script safely injects your proxy URL into the following locati
 Because this tool has **zero external dependencies**, installation is just downloading a single file.
 
 **For Offline Machines:**
-1. Download `proxy_set.py` onto a USB drive from an internet-connected computer.
+1. Download `proxy_linux.py` onto a USB drive from an internet-connected computer.
 2. Plug the USB into your offline Linux (Debian/Ubuntu) machine.
 3. Copy the script to your home directory or run it directly from the drive.
 
