@@ -1,10 +1,10 @@
-# 🌐 The Ultimate Proxy Manager
+# The Ultimate Proxy Manager
 
 <div align="center">
   <p><strong>A beautiful, zero-dependency CLI tool to instantly configure or remove system-wide proxy settings on Linux.</strong></p>
 </div>
 
-## 🚀 Overview
+## Overview
 
 Configuring a proxy on a fresh Linux installation usually means digging through hidden files and manually setting up `bash`, `apt`, `pip`, and `git` one by one. 
 
@@ -16,7 +16,7 @@ Configuring a proxy on a fresh Linux installation usually means digging through 
 
 ---
 
-## ⚙️ What It Does (Under the Hood)
+## What It Does (Under the Hood)
 
 When enabled, the script safely injects your proxy URL into the following locations. When disabled, it cleans up after itself without touching your other configurations.
 
@@ -31,7 +31,7 @@ When enabled, the script safely injects your proxy URL into the following locati
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 Because this tool has **zero external dependencies**, installation is just downloading a single file.
 
